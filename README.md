@@ -1,16 +1,20 @@
 # to-learn-html-and-git
 
 Hello world!
-<!DOCTYPE html><html> 
- <head>
+<!DOCTYPE html>
+<html> 
+<head>
 
 </head> 
  
 <body>  
     <h1>Hello world!</h1> 
  </body>
-     </html>
-
-     <h1>Hello world!</h1>
-     <p>Hello, and welcome to my website!<p>
+ <body>
+    <p>this is an paragraph</p>
+ </body>
+ 
      
+</html>
+
+    
